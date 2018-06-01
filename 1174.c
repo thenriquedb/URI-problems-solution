@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int TAM = 5,i;
+    int TAM = 100,i;
     float v[TAM];
 
     for (i = 0; i < TAM; i++) {
